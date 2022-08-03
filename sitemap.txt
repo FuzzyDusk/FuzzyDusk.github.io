@@ -1,3 +1,5 @@
+http://example.com/2022/08c82309af.html
 http://example.com/2022/083d37826c.html
 http://example.com/
 http://example.com/tags/ESP32/
+http://example.com/tags/MySQL/
